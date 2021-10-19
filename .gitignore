@@ -35,9 +35,12 @@ vignettes/*.pdf
 *.csv
 *_output/
 /output/
+<<<<<<< HEAD
 *_docs/
 /docs/
 
+=======
+>>>>>>> 0324c58d79908eab62416b10364fc9d242b11526
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
