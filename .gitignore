@@ -35,6 +35,7 @@ vignettes/*.pdf
 *.csv
 *_output/
 /output/
+<<<<<<< HEAD
 *_docs/
 /docs/
 
