@@ -39,6 +39,11 @@ vignettes/*.pdf
 *_docs/
 /docs/
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 0324c58d79908eab62416b10364fc9d242b11526
+>>>>>>> 19fa3bf1f7ad636ddcc2774b2bee612d6439b8ab
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
